@@ -2,7 +2,7 @@
 
 > Status: Finalizado... ✔
 
-### Formulário criado com intuido de aprimorar meus conhecimentos com CSS. 🚀 
+### Formulário criado com intuito de aprimorar meus conhecimentos com CSS. 🚀 
 
 ## Tecnologias utilizadas:
 
