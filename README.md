@@ -12,4 +12,4 @@ Este é um projeto de formulário de registro básico que consiste em um arquivo
     </tr>
   </table>
   
-###[Site do formulário](https://gilmarjr99.github.io/Formulario/)
+[Site do formulário](https://gilmarjr99.github.io/Formulario/)
